@@ -6,16 +6,26 @@ public class Dictionary {
 
     String[] locations = {};
 
-    String[] locdescriptions = {};
+    String[] locDescriptions = {};
+
+    // same -- but for revisits
+
+    String[] backDescriptions = {};
 
     // the names of every object and their descriptions
 
     String[] objects = {};
 
-    String[] objdescriptions = {};
+    String[] objDescriptions = {};
 
     // miscellaneous statements
 
-    String[] misc = {};
+    String[] bag = {};
+
+    String[] death = {};
+
+    
+
+
 
 }
